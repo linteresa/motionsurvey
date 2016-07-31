@@ -1,0 +1,34 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: bare_adv.aux
+The style file: IEEEtran.bst
+Database file #1: motionsurvey.bib
+I was expecting an "="---line 433 of file motionsurvey.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 501 of file motionsurvey.bib
+ : 
+ : ,}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 612 of file motionsurvey.bib
+ : 
+ : ,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 689 of file motionsurvey.bib
+ : @inproceedings{83
+ :                  ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 703 of file motionsurvey.bib
+ : 
+ : ,}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty year in 41
+
+Done.
+(There were 5 error messages)
